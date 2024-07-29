@@ -7,3 +7,4 @@ Since the cause of an accident is a small sound (<=120 dB), this project creates
 ## Idea
 1. Sound Classification: Detecting the siren
 2. Object Detection: Find the emergency vehicles using their image
+In this repo
