@@ -2,4 +2,4 @@
 
 ## Motivation
 There was an accident that an ambulance collides with a bus<br/>
-Because of the sound is small(<=120dB)
+The reason of accident is small sound(<=120dB), this project make a recognization technology of emergency vehicle<br/>
