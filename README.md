@@ -1,7 +1,8 @@
 # Emergency Vehicle Project
 
 ## Motivation
-There was an accident that an ambulance collides with a bus in Korea(link: https://www.youtube.com/watch?v=5BQaSOpQoHI)<br/>
+There was an accident that an ambulance collides with a bus in Korea<br/>
+(link: https://www.youtube.com/watch?v=5BQaSOpQoHI)<br/>
 Since the cause of an accident is a small sound (<=120 dB), this project creates a recognition technology for emergency vehicles.<br/>
 
 ## Idea
