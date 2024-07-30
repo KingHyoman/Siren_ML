@@ -10,4 +10,6 @@ Since the cause of an accident is a small sound (<=120 dB), this project creates
 <br/>
 This repository has results for 1.
 
-## Requirements
+## Results
+1. Sound Classification: https://www.notion.so/Result-1-Sound-Classification-256f4600932c4a7481e56191e9463119<br/>
+2. Object Detection: https://www.notion.so/Result-2-Object-Detection-572fa4ddf38a4739945838bd6e75cd8e
