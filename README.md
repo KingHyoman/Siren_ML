@@ -9,7 +9,8 @@ Since the cause of an accident is a small sound (<=120 dB), this project creates
 1. Sound Classification: Detecting the siren
 2. Object Detection: Find the emergency vehicles using their image
 <br/>
-This repository has results for 1.
+This repository has results for Sound Classification.<br/>
+(The first attempt of Object Detection is also present)<br/>
 
 ## Results
 1. Sound Classification: https://www.notion.so/Result-1-Sound-Classification-256f4600932c4a7481e56191e9463119?pvs=4<br/>
